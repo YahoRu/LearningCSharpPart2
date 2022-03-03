@@ -6,7 +6,7 @@ namespace Lesson2Part2
     {
         static void Main(string[] args)
         {
-            const int number = 124;
+            const int number = 114;
 
             int temp = number;
 

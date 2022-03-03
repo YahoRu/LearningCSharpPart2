@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2Part1", "Lesson2\Lesson2Part1.csproj", "{308099E4-AFC8-45A2-A947-F71C49B478D6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson", "Lesson", "{3A398228-11EA-4A03-8F03-C188F44757B0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson2", "Lesson2", "{3A398228-11EA-4A03-8F03-C188F44757B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2Part2", "Lesson2Part2\Lesson2Part2.csproj", "{D7DC2AB6-BEA9-4086-8226-2FF0E0616F26}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2Part4", "Lesson2Part
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2Part5", "Lesson2Part5\Lesson2Part5.csproj", "{2FC86D80-4DBC-4390-BB61-B83990F36F1D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson2", "Lesson2", "{5C0C5A7A-B0F1-460A-A614-C0072F8220CA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TeachMeSkills", "TeachMeSkills", "{5C0C5A7A-B0F1-460A-A614-C0072F8220CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
